@@ -5,15 +5,19 @@ Nesta atividade, você fazer exercícios de programação para vai praticar a ma
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Christina Danúbia de Araújo Carreiro
+- Matricula: 926387
 
 ## Prints do console do navegador
 
 <<  COLOQUE A IMAGEM - LISTAGEM DE TÍTULOS - AQUI >>
+![Listagem](public/images/console-listagem.png)
 
 <<  COLOQUE A IMAGEM - CÁLCULO DE MÉDIAS - AQUI >>
+![Media](public/images/console-medias.png)
 
 <<  COLOQUE A IMAGEM - RESUMO DE VERIFICAÇÕES (SOME E EVERY) - AQUI >>
+![Verificacoes](public/images/console-verificacoes.png)
 
 <<  COLOQUE A IMAGEM - PÁGINA COM O RESUMO - AQUI >>
+![Resumo](public/images/resumo-pagina.png)
